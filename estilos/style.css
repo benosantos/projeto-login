@@ -56,12 +56,13 @@ section#login > div#formulario{
 div#formulario > h1{
     text-align: center;
     margin-top: 10px;
-    
+    transform: translateY(-10px);
 }
 
 div#formulario > p{
     font-size: 0.8em;
-    margin: 20px 0px;
+    transform: translateY(-8px);
+    
 }
 
 div.campo > label {
